@@ -1,0 +1,6 @@
+<?php>
+name: SkyWars
+main: inw_Bedwars\Main
+version: 1.0_BETA
+api: [1.0.0]
+author: RedstoneAlmeida

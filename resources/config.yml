@@ -1,0 +1,22 @@
+Arenas:
+  Arena1:
+    #the world where is the arena. Note: only one arena for world
+    world: world
+    #coordinates of blue's bed
+    bluebed: x, y, z
+    #coordinates of blue's spawn
+    bluespawn: x, y, z
+    #coordinates of red's bed
+    redbed: x, y, z
+    #coordinates of red's spawn
+    redspawn: x, y, z
+    #coordinates of green's bed
+    greenbed: x, y, z
+    #coordinates of green's spawn
+    greenspawn: x, y, z
+    #coordinates of yellow's bed
+    yellowbed: x, y, z
+    #coordinates of yellow's spawn
+    yellowspawn: x, y, z
+    #status of the arena. DO NOT CHANGE THIS! LEAVE IT BLANK!!!
+    status:
